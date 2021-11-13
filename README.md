@@ -11,3 +11,13 @@ Used tools as follows.
 * [sphinx](https://www.sphinx-doc.org/en/master): document is created along with package codes.
 * [streamlit](https://streamlit.io/): streaming dashboard for exploration.
 * [wandb](https://wandb.ai/site): daashboard for states of models.
+
+
+## Deploy
+
+Deploy to pypi as follows.
+```
+# setup.py version up
+python setup.py bdist_wheel
+python -m twine upload dist/*.whl
+```
