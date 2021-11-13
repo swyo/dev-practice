@@ -11,8 +11,9 @@ setuptools.setup(
     install_requires=[],
     keywords=['python', 'packaging'],
     python_requires='>=3.9',
-    packages=setuptools.find_packages(exclude=('docs')),
+    packages=setuptools.find_packages('.', exclude=('docs', 'tests')),
     zip_safe=False,
+    license='MIT',
     classifiers=[
         'Programming Language :: Python :: 3.9',
         'License :: OSI Approved :: MIT License',
