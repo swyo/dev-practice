@@ -1,6 +1,6 @@
 # My Implemented Package
 
-Practice of development and deploy codes. 😄
+Practice of development and deploy codes. 😄 <br>
 This repo will be used to create a package by refering this structure.
 
 Anyone can be install this library from pypi from this link: https://pypi.org/project/mipack/
