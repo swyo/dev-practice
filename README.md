@@ -1,6 +1,6 @@
 # My Implemented Package
 
-Practice of development and deploy codes.
+Practice of development and deploy codes. 😄
 This repo will be used to create a package by refering this structure.
 
 Anyone can be install this library from pypi from this link: https://pypi.org/project/mipack/
@@ -9,19 +9,19 @@ Anyone can be install this library from pypi from this link: https://pypi.org/pr
 pip install mipack
 ```
 
-## Tools
+## Tools 
 
-Used tools as follows.
+Used tools as follows. 🔥
 
-* [github action](https://github.com/features/actions): continuous integration.
-* [sphinx](https://www.sphinx-doc.org/en/master): document is created along with package codes.
-* [streamlit](https://streamlit.io/): streaming dashboard for exploration.
-* [wandb](https://wandb.ai/site): daashboard for states of models.
+- [ ] [github action](https://github.com/features/actions): continuous integration.
+- [ ] [sphinx](https://www.sphinx-doc.org/en/master): document is created along with package codes.
+- [ ] [streamlit](https://streamlit.io/): streaming dashboard for exploration.
+- [ ] [wandb](https://wandb.ai/site): daashboard for states of models.
 
 
 ## Deploy
 
-Deploy to pypi as follows.
+Deploy to pypi as follows. 🥳
 ```
 # setup.py version up
 python setup.py bdist_wheel
