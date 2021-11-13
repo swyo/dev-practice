@@ -6,7 +6,7 @@ Practice of development and deploy codes.
 
 Used tools as follows.
 
-* github action: continuous integration.
-* sphinx: document is created along with package codes.
-* streamlit: streaming dashboard for exploration.
-* wandb: daashboard for states of models.
+* [github action](https://github.com/features/actions): continuous integration.
+* [sphinx](https://www.sphinx-doc.org/en/master): document is created along with package codes.
+* [streamlit](https://streamlit.io/): streaming dashboard for exploration.
+* [wandb](https://wandb.ai/site): daashboard for states of models.
