@@ -1,6 +1,7 @@
 # My Implemented Package
 
 Practice of development and deploy codes.
+This repo will be used to create a package by refering this structure.
 
 ## Tools
 
