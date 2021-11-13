@@ -1,12 +1,17 @@
 #!bin/bash
 import setuptools
 
+with open('README.md', 'r') as fin:
+    long_description = fin.read()
+
 setuptools.setup(
     name='mipack',
-    version='0.0.2',
+    version='0.0.3',
     author='swyo',
     author_email='l22491360@gmail.com',
     description='My implemented packages for python',
+    long_description=long_description,
+    long_description_content_type='text/markdown',
     url='https://github.com/swyo/mipack',
     install_requires=[],
     keywords=['python', 'packaging'],
