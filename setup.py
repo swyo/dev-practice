@@ -6,7 +6,7 @@ with open('README.md', 'r') as fin:
 
 setuptools.setup(
     name='mipack',
-    version='0.0.3',
+    version='0.0.4',
     author='swyo',
     author_email='l22491360@gmail.com',
     description='My implemented packages for python',

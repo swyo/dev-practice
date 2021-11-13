@@ -3,6 +3,12 @@
 Practice of development and deploy codes.
 This repo will be used to create a package by refering this structure.
 
+Anyone can be install this library from pypi from this link: https://pypi.org/project/mipack/
+
+```
+pip install mipack
+```
+
 ## Tools
 
 Used tools as follows.
