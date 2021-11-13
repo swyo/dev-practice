@@ -24,6 +24,7 @@ Used tools as follows.
 Deploy to pypi as follows.
 ```
 # setup.py version up
+# doc/conf.py version up
 python setup.py bdist_wheel
 python -m twine upload dist/*.whl
 ```
