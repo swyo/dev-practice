@@ -9,6 +9,9 @@ Anyone can be install this library from pypi from this link: https://pypi.org/pr
 pip install mipack
 ```
 
+Q. How to manage packages? see from <a href="https://www.youtube.com/watch?v=Motr7UunBT4&list=PLjAFBrXBY3g59hczbnFa-xu1Tqrtzh1Yn&index=1&t=9s" target="_blank"><img src="https://img.shields.io/badge/YouTube-Dol AI-white?style=plastic&logo=youtube&logoColor=red"/>
+
+
 ## Tools 
 
 Used tools as follows. 🔥
