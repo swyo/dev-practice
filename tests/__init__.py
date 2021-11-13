@@ -1,4 +1,4 @@
-from tests.start import test_start
+from . import start
 
 
-__all__ = ['test_start']
+__all__ = ['start']
