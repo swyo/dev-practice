@@ -27,3 +27,15 @@ Deploy to pypi as follows.
 python setup.py bdist_wheel
 python -m twine upload dist/*.whl
 ```
+
+## Documentation
+
+Update documentation using sphinx.
+```
+sphinx-apidoc -f -o docs mipack
+```
+
+Serving the documetation.
+```
+sphinx-autobuild --host [IP] --port [PORT] docs docs/_build/html
+```
